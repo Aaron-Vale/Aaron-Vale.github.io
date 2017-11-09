@@ -1,3 +1,8 @@
+#resume {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .app-block-intro, .block-bordered-lg, .block {
   background-color: #8F94A4;
 }
@@ -17,6 +22,16 @@ body {
   background-color: rgba(0,0,0, 0.75);
 }
 
+.fa-arrow-circle-left {
+  position: relative;
+  right: 30px;
+}
+
+.fa-arrow-circle-right {
+  position: relative;
+  right: -30px;
+}
+
 h1, h2 {
   color: palegoldenrod;
 }
@@ -30,7 +45,7 @@ h1, h2 {
 }
 
 .resume {
-  background-color: rgba(255,255,255, 0.9);
+  background-color: rgba(255,255,255, 0.3);
 }
 
 .row {
