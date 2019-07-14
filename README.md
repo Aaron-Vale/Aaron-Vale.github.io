@@ -1,3 +1,1 @@
 Aaron Vale Portfolio
-
-TODO
